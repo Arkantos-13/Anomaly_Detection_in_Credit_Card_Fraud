@@ -1,5 +1,5 @@
-# credit_card_fraud_detection-
-CREDIT CARD FRAUD DETECTION 
+# credit_card_fraud_anomaly_detection
+CREDIT CARD FRAUD ANOMALY DETECTION 
 
 
 
