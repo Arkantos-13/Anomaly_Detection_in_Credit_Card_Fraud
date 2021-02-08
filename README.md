@@ -1,4 +1,4 @@
-ANOMALY DETECTION IN CREDIT CARD FRAUD  
+ANOMALY DETECTION IN CREDIT CARD FRAUD TRANSACTIONS
 
 I have use IQR method and different machine learning algorithms both unsupervised and supervised
 
